@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/seekerui/static/css/main.ea1592f2.css",
+    "main.css": "/seekerui/static/css/main.69c71f75.css",
     "main.js": "/seekerui/static/js/main.c7737e5f.js",
     "index.html": "/seekerui/index.html",
-    "main.ea1592f2.css.map": "/seekerui/static/css/main.ea1592f2.css.map",
+    "main.69c71f75.css.map": "/seekerui/static/css/main.69c71f75.css.map",
     "main.c7737e5f.js.map": "/seekerui/static/js/main.c7737e5f.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea1592f2.css",
+    "static/css/main.69c71f75.css",
     "static/js/main.c7737e5f.js"
   ]
 }
