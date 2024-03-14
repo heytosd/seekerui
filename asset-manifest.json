@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.9aaacb18.css",
-    "main.js": "/static/js/main.d0345094.js",
-    "index.html": "/index.html",
-    "main.9aaacb18.css.map": "/static/css/main.9aaacb18.css.map",
-    "main.d0345094.js.map": "/static/js/main.d0345094.js.map"
+    "main.css": "/seekerui/static/css/main.9aaacb18.css",
+    "main.js": "/seekerui/static/js/main.d0345094.js",
+    "index.html": "/seekerui/index.html",
+    "main.9aaacb18.css.map": "/seekerui/static/css/main.9aaacb18.css.map",
+    "main.d0345094.js.map": "/seekerui/static/js/main.d0345094.js.map"
   },
   "entrypoints": [
     "static/css/main.9aaacb18.css",
